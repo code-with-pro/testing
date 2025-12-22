@@ -1,0 +1,26 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullah7624/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullah7624/testing/issues"
+  },
+  "homepage": "https://github.com/abdullah7624/testing#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.1",
+    "simple-git": "^3.30.0"
+  }
+}
